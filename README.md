@@ -2,7 +2,6 @@
 
 Bem-vindo ao meu projeto do #30DaysOfCoding! Este é o primeiro dia da minha jornada para explorar diferentes áreas de desenvolvimento e aprimorar minhas habilidades. Neste dia, criei um projeto Android simples com uma tela de login e cadastro em Kotlin.
 
-https://github.com/CairoSergio/LoginApp/tree/main/LoginApp/AppVideo.mp4
 
 ## Objetivo
 
