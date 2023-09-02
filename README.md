@@ -21,7 +21,7 @@ O projeto do Dia Um inclui:
 1. Clone este repositório em sua máquina local:
 
    ```shell
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/CairoSergio/LoginApp.git
 Abra o projeto em seu ambiente de desenvolvimento preferido (por exemplo, Android Studio).
 
 Execute o projeto em um emulador ou dispositivo Android.
