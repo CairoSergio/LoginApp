@@ -2,6 +2,8 @@
 
 Bem-vindo ao meu projeto do #30DaysOfCoding! Este é o primeiro dia da minha jornada para explorar diferentes áreas de desenvolvimento e aprimorar minhas habilidades. Neste dia, criei um projeto Android simples com uma tela de login e cadastro em Kotlin.
 
+https://github.com/CairoSergio/LoginApp/tree/main/LoginApp/AppVideo.mp4
+
 ## Objetivo
 
 O objetivo deste projeto é começar com os fundamentos do desenvolvimento Android usando a linguagem Kotlin. Durante os próximos 100 dias, explorarei outras áreas, como desenvolvimento web e backend, para descobrir minha paixão e direção no campo de desenvolvimento de software.
