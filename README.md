@@ -5,7 +5,7 @@ Bem-vindo ao meu projeto do #30DaysOfCoding! Este é o primeiro dia da minha jor
 
 ## Objetivo
 
-O objetivo deste projeto é começar com os fundamentos do desenvolvimento Android usando a linguagem Kotlin. Durante os próximos 100 dias, explorarei outras áreas, como desenvolvimento web e backend, para descobrir minha paixão e direção no campo de desenvolvimento de software.
+O objetivo deste projeto é começar com os fundamentos do desenvolvimento Android usando a linguagem Kotlin. Durante os próximos 30 dias, explorarei outras áreas, como desenvolvimento web e backend, para descobrir minha paixão e direção no campo de desenvolvimento de software.
 
 ## Recursos
 
